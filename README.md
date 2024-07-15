@@ -1,5 +1,5 @@
 # some-useful-single-pod
 | Modul      | Description |
 | ----------- | ----------- |
-| MongoDB      | xxx       |
-| MinIO   | xxx        |
+| MongoDB      | Statefulset, PVC, SVC       |
+| MinIO   | Dployment, PVC, SVC        |
