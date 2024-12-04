@@ -3,3 +3,4 @@
 | ----------- | ----------- |
 | MongoDB      | StatefulSet, PersistentVolumeClaim, Service       |
 | MinIO   | Deployment, PersistentVolumeClaim, Service         |
+| Kafka   | Deployment, Service         |
